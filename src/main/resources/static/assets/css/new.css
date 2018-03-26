@@ -1,0 +1,13 @@
+/* main部 */
+.l-wrap {
+    min-width: 1080px;
+    min-height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.l-container {
+    position: relative;
+    min-height: 700px;
+    padding-bottom: 120px;
+}

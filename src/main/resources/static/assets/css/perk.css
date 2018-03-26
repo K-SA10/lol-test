@@ -1,0 +1,62 @@
+.champion-overview__data .perk-page-wrap, .champion-stats__table .perk-page-wrap {
+    text-align: left;
+}
+
+.perk-page-wrap .perk-page {
+    display: inline-block;
+    vertical-align: bottom;
+    width: 50%;
+    max-width: 164px;
+    box-sizing: border-box;
+}
+.perk-page__item--mark {
+    width: 100%;
+}
+.perk-page__image {
+    display: block;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: #ededed;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+
+.perk-page__item {
+    float: left;
+    width: 33.333333333333336%;
+    margin: 4px 0;
+    text-align: center;
+}
+.perk-page__item--mark {
+    width: 100%;
+}
+.perk-page__item--active.perk-page__item--keystone .perk-page__image {
+    background: #000;
+}
+.perk-page__item--keystone .perk-page__image {
+    background: #ddd;
+    width: 42px;
+    height: 42px;
+}
+
+.perk-page__image img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+}
+
+.perk-page__item--active .perk-page__image img {
+    opacity: 1;
+}
+
+.l-champion-statistics-content:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: "";
+    clear: both;
+    height: 0;
+}

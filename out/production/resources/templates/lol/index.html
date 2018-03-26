@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Title</title>
+</head>
+<body>
+<div>
+
+<!--<ul th:unless="${rune.isEmpty()}">-->
+    <li th:each="data: ${rune.data}">
+        <!--<a th:href="#">-->
+            <span th:text="${data.value.name}"></span>
+        <!--</a>-->
+        <!--<span th:text="${data.name}"></span>-->
+    </li>
+<!--</ul>-->
+
+<div class="menuBar" th:id="MenuBar_1000" style="position:absolute; left:76px; top:189px; z-index:1000; width:400px; height:34px;">
+    <ul>
+        <li><a th:id="MenuBar_1000_0" href="#" style="font-family:Comic Sans MS;font-size:12px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">ホーム</a></li>
+        <li><a th:id="MenuBar_1000_1" href="#" style="font-family:Comic Sans MS;font-size:12px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">チャンピオン</a></li>
+        <li><a th:id="MenuBar_1000_2" href="#" style="font-family:Comic Sans MS;font-size:12px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">アイテム</a></li>
+        <li><a th:id="MenuBar_1000_3" href="#" style="font-family:Comic Sans MS;font-size:12px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">ルーン</a></li>
+    </ul>
+</div>
+<input type="text" id="txtSearch_1001" class="searchBox" name="txtSearch_1001" value="Search" style="position:absolute; left:45px; top:315px; z-index:1001; width:480px; height:24px;font-family:Comic Sans MS;font-size:12px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;" />
+</div>
+
+</body>
+</html>

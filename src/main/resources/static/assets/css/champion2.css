@@ -1,0 +1,161 @@
+/* チャンピオン表示部 */
+.l-champion-index-content {
+    width: 1080px;
+    margin: 15px auto 0;
+}
+/* チャンピオン表示上部 メッセージ表示部 */
+.champion-index-message {
+    margin-bottom: 12px;
+}
+/* チャンピオン表示上部 メッセージ */
+.champion-index__message {
+    float: left;
+    line-height: 18px;
+    font-size: 12px;
+    color: #9b9b9b;
+}
+/* チャンピオン表示上部 ver */
+.champion-index__version {
+    float: right;
+    line-height: 18px;
+    font-size: 12px;
+    text-align: right;
+    color: #4a4a4a;
+}
+/* チャンピオン表示上部 ver icon-tip画像 */
+.champion-index__version img {
+    vertical-align: middle;
+    margin-right: 9px;
+}
+/* チャンピオン表示上部 位置調整 */
+.champion-index-message:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: "";
+    clear: both;
+    height: 0;
+}
+
+/* チャンピオン表示main部 */
+.l-champion-index-content .l-champion-index-content--main {
+    float: left;
+    width: 700px;
+    background-color: #f9f9fa;
+    border: solid 1px #e9eff4;
+    border-right: none;
+    box-sizing: border-box;
+}
+/* チャンピオン表示main部 チャンピオンフィルター部 */
+.champion-list-filter {
+    background-color: #fff;
+    border-bottom: solid 1px #e9eff4;
+}
+/* チャンピオン表示main部 チャンピオンフィルター部 ロール種別 */
+.champion-list-filter__type {
+    float: left;
+    margin-left: 20px;
+}
+.champion-list-filter__type__item {
+    display: inline-block;
+}
+/* チャンピオン表示main部 チャンピオンフィルター部 検索 */
+.champion-list-filter__keyword {
+    float: right;
+    margin: 7px 7px 7px 0;
+}
+.champion-list-filter__keyword input {
+    height: 36px;
+    width: 193px;
+    border: none;
+    background: #f7f7f7;
+    line-height: 15px;
+    font-size: 12px;
+    color: #9b9b9b;
+    padding: 9px 0 10px 10px;
+    box-sizing: border-box;
+}
+/* チャンピオン表示main部 チャンピオンフィルター部 位置調整 */
+.champion-list-filter:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: "";
+    clear: both;
+    height: 0;
+}
+/* チャンピオン表示main部 チャンピオン表示部 */
+.champion-index__champion-list {
+    margin: 10px 8px;
+    font-size: 0;
+}
+/* チャンピオン表示main部 チャンピオン表示部 チャンピオン */
+.champion-index__champion-item {
+    position: relative;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 12px;
+    width: 84px;
+    vertical-align: top;
+}
+.champion-index__champion-item a {
+    display: block;
+    position: relative;
+    text-decoration: none;
+    font-size: 0;
+}
+/* チャンピオン表示main部 チャンピオン表示部 チャンピオン画像部 */
+.champion-index__champion-item__image {
+    position: relative;
+    width: 82px;
+    height: 82px;
+    border: 2px solid #000;
+}
+/* チャンピオン表示main部 チャンピオン表示部 チャンピオン名前部 */
+.champion-index__champion-item__name {
+    margin-top: 8px;
+    line-height: 15px;
+    font-size: 12px;
+    text-align: left;
+    color: #4a4a4a;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+/* チャンピオン表示main部 チャンピオン表示部 チャンピオンロール表示枠部 */
+.champion-index__champion-item__positions {
+    position: absolute;
+    bottom: 25px;
+    right: 0;
+    text-align: right;
+}
+/* チャンピオン表示main部 チャンピオン表示部 チャンピオンロール表示部 */
+.champion-index__champion-item__position {
+    display: block;
+    margin-top: 2px;
+}
+/* チャンピオン表示main部 チャンピオン表示部 チャンピオンロール */
+.champion-index__champion-item__position span {
+    display: inline-block;
+    line-height: 15px;
+    font-size: 12px;
+    letter-spacing: -0.9px;
+    color: #fff;
+    background: #353b3e;
+    padding: 1px 6px 0 4px;
+}
+/* チャンピオン表示main部 チャンピオン表示部 RIP */
+.champion-index__champion-item__deceased {
+    position: absolute;
+    top: 44px;
+    width: 100%;
+    text-align: center;
+}
+/* チャンピオン表示main部 チャンピオン表示部 FREE */
+.champion-index__champion-item__free {
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: -5px;
+    margin-top: -5px;
+}

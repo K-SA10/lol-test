@@ -1,0 +1,13 @@
+.__spc82-80 {
+    width: 82px;
+    height: 82px;
+}
+.__spc82 {
+/*    background-image: url(http://ddragon.leagueoflegends.com/cdn/7.24.1/img/champion/Ivern.png);*/
+    background-size: 78px 78px;
+    background-repeat: no-repeat;
+}
+.__sprite {
+    display: inline-block;
+    text-indent: -99999px;
+}

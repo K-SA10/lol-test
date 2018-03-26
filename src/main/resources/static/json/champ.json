@@ -1,0 +1,2091 @@
+{
+    "type": "champion",
+    "version": "7.24.2",
+    "data": {
+        "MonkeyKing": {
+            "image": {
+                "full": "MonkeyKing.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 48
+            },
+            "title": "美猴王",
+            "id": 62,
+            "key": "MonkeyKing",
+            "name": "ウーコン"
+        },
+        "Jax": {
+            "image": {
+                "full": "Jax.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 144
+            },
+            "title": "最強の武器使い",
+            "id": 24,
+            "key": "Jax",
+            "name": "ジャックス"
+        },
+        "Fiddlesticks": {
+            "image": {
+                "full": "Fiddlesticks.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 336
+            },
+            "title": "破滅の先触れ",
+            "id": 9,
+            "key": "Fiddlesticks",
+            "name": "フィドルスティックス"
+        },
+        "Shaco": {
+            "image": {
+                "full": "Shaco.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 240
+            },
+            "title": "悪魔の道化師",
+            "id": 35,
+            "key": "Shaco",
+            "name": "シャコ"
+        },
+        "Warwick": {
+            "image": {
+                "full": "Warwick.png",
+                "group": "champion",
+                "sprite": "champion4.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 336
+            },
+            "title": "解き放たれたゾウンの激憤",
+            "id": 19,
+            "key": "Warwick",
+            "name": "ワーウィック"
+        },
+        "Xayah": {
+            "image": {
+                "full": "Xayah.png",
+                "group": "champion",
+                "sprite": "champion4.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 384
+            },
+            "title": "反逆の刃",
+            "id": 498,
+            "key": "Xayah",
+            "name": "ザヤ"
+        },
+        "Nidalee": {
+            "image": {
+                "full": "Nidalee.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 336
+            },
+            "title": "半獣の狩人",
+            "id": 76,
+            "key": "Nidalee",
+            "name": "ニダリー"
+        },
+        "Zyra": {
+            "image": {
+                "full": "Zyra.png",
+                "group": "champion",
+                "sprite": "champion4.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 384
+            },
+            "title": "茨の目覚め",
+            "id": 143,
+            "key": "Zyra",
+            "name": "ザイラ"
+        },
+        "Kled": {
+            "image": {
+                "full": "Kled.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 336
+            },
+            "title": "狂乱の騎兵",
+            "id": 240,
+            "key": "Kled",
+            "name": "クレッド"
+        },
+        "Brand": {
+            "image": {
+                "full": "Brand.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 96
+            },
+            "title": "復讐の炎",
+            "id": 63,
+            "key": "Brand",
+            "name": "ブランド"
+        },
+        "Rammus": {
+            "image": {
+                "full": "Rammus.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 336
+            },
+            "title": "アーマージロ",
+            "id": 33,
+            "key": "Rammus",
+            "name": "ラムス"
+        },
+        "Illaoi": {
+            "image": {
+                "full": "Illaoi.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 384
+            },
+            "title": "海の女司祭",
+            "id": 420,
+            "key": "Illaoi",
+            "name": "イラオイ"
+        },
+        "Corki": {
+            "image": {
+                "full": "Corki.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 384
+            },
+            "title": "豪気の爆撃手",
+            "id": 42,
+            "key": "Corki",
+            "name": "コーキ"
+        },
+        "Braum": {
+            "image": {
+                "full": "Braum.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 144
+            },
+            "title": "フレヨルドの漢気",
+            "id": 201,
+            "key": "Braum",
+            "name": "ブラウム"
+        },
+        "Darius": {
+            "image": {
+                "full": "Darius.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 432
+            },
+            "title": "ノクサスの戦斧",
+            "id": 122,
+            "key": "Darius",
+            "name": "ダリウス"
+        },
+        "Tryndamere": {
+            "image": {
+                "full": "Tryndamere.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 192
+            },
+            "title": "孤高の蛮王",
+            "id": 23,
+            "key": "Tryndamere",
+            "name": "トリンダメア"
+        },
+        "MissFortune": {
+            "image": {
+                "full": "MissFortune.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 0
+            },
+            "title": "美貌の賞金稼ぎ",
+            "id": 21,
+            "key": "MissFortune",
+            "name": "ミス・フォーチュン"
+        },
+        "Yorick": {
+            "image": {
+                "full": "Yorick.png",
+                "group": "champion",
+                "sprite": "champion4.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 96
+            },
+            "title": "魂の導き手",
+            "id": 83,
+            "key": "Yorick",
+            "name": "ヨリック"
+        },
+        "Xerath": {
+            "image": {
+                "full": "Xerath.png",
+                "group": "champion",
+                "sprite": "champion4.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 432
+            },
+            "title": "超越魔神",
+            "id": 101,
+            "key": "Xerath",
+            "name": "ゼラス"
+        },
+        "Sivir": {
+            "image": {
+                "full": "Sivir.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 0
+            },
+            "title": "戦場の女王",
+            "id": 15,
+            "key": "Sivir",
+            "name": "シヴィア"
+        },
+        "Riven": {
+            "image": {
+                "full": "Riven.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 48
+            },
+            "title": "贖罪の追放者",
+            "id": 92,
+            "key": "Riven",
+            "name": "リヴェン"
+        },
+        "Orianna": {
+            "image": {
+                "full": "Orianna.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 48
+            },
+            "title": "時計仕掛けの舞姫",
+            "id": 61,
+            "key": "Orianna",
+            "name": "オリアナ"
+        },
+        "Gangplank": {
+            "image": {
+                "full": "Gangplank.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 48
+            },
+            "title": "大海原の大災厄",
+            "id": 41,
+            "key": "Gangplank",
+            "name": "ガングプランク"
+        },
+        "Malphite": {
+            "image": {
+                "full": "Malphite.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 288
+            },
+            "title": "モノリスの欠片",
+            "id": 54,
+            "key": "Malphite",
+            "name": "マルファイト"
+        },
+        "Poppy": {
+            "image": {
+                "full": "Poppy.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 192
+            },
+            "title": "大鎚の守護者",
+            "id": 78,
+            "key": "Poppy",
+            "name": "ポッピー"
+        },
+        "Karthus": {
+            "image": {
+                "full": "Karthus.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 432
+            },
+            "title": "死を歌う者",
+            "id": 30,
+            "key": "Karthus",
+            "name": "カーサス"
+        },
+        "Jayce": {
+            "image": {
+                "full": "Jayce.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 192
+            },
+            "title": "未来への希望",
+            "id": 126,
+            "key": "Jayce",
+            "name": "ジェイス"
+        },
+        "Nunu": {
+            "image": {
+                "full": "Nunu.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 432
+            },
+            "title": "雪男を駆る少年",
+            "id": 20,
+            "key": "Nunu",
+            "name": "ヌヌ"
+        },
+        "Trundle": {
+            "image": {
+                "full": "Trundle.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 144
+            },
+            "title": "トロールキング",
+            "id": 48,
+            "key": "Trundle",
+            "name": "トランドル"
+        },
+        "Graves": {
+            "image": {
+                "full": "Graves.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 240
+            },
+            "title": "無法者",
+            "id": 104,
+            "key": "Graves",
+            "name": "グレイブス"
+        },
+        "Zoe": {
+            "image": {
+                "full": "Zoe.png",
+                "group": "champion",
+                "sprite": "champion4.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 336
+            },
+            "title": "超常の遊び",
+            "id": 142,
+            "key": "Zoe",
+            "name": "ゾーイ"
+        },
+        "Gnar": {
+            "image": {
+                "full": "Gnar.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 144
+            },
+            "title": "ミッシングリンク",
+            "id": 150,
+            "key": "Gnar",
+            "name": "ナー"
+        },
+        "Lux": {
+            "image": {
+                "full": "Lux.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 240
+            },
+            "title": "光の才女",
+            "id": 99,
+            "key": "Lux",
+            "name": "ラックス"
+        },
+        "Shyvana": {
+            "image": {
+                "full": "Shyvana.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 336
+            },
+            "title": "半龍人",
+            "id": 102,
+            "key": "Shyvana",
+            "name": "シヴァーナ"
+        },
+        "Renekton": {
+            "image": {
+                "full": "Renekton.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 432
+            },
+            "title": "砂漠の解体屋",
+            "id": 58,
+            "key": "Renekton",
+            "name": "レネクトン"
+        },
+        "Fiora": {
+            "image": {
+                "full": "Fiora.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 384
+            },
+            "title": "高潔なるデュエリスト",
+            "id": 114,
+            "key": "Fiora",
+            "name": "フィオラ"
+        },
+        "Jinx": {
+            "image": {
+                "full": "Jinx.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 288
+            },
+            "title": "暴走パンクガール",
+            "id": 222,
+            "key": "Jinx",
+            "name": "ジンクス"
+        },
+        "Kalista": {
+            "image": {
+                "full": "Kalista.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 336
+            },
+            "title": "復讐の槍",
+            "id": 429,
+            "key": "Kalista",
+            "name": "カリスタ"
+        },
+        "Fizz": {
+            "image": {
+                "full": "Fizz.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 432
+            },
+            "title": "波間のトリックスター",
+            "id": 105,
+            "key": "Fizz",
+            "name": "フィズ"
+        },
+        "Kassadin": {
+            "image": {
+                "full": "Kassadin.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 0
+            },
+            "title": "ヴォイドを歩む者",
+            "id": 38,
+            "key": "Kassadin",
+            "name": "カサディン"
+        },
+        "Sona": {
+            "image": {
+                "full": "Sona.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 96
+            },
+            "title": "沈黙の弦奏師",
+            "id": 37,
+            "key": "Sona",
+            "name": "ソナ"
+        },
+        "Irelia": {
+            "image": {
+                "full": "Irelia.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 432
+            },
+            "title": "剣の遺志",
+            "id": 39,
+            "key": "Irelia",
+            "name": "イレリア"
+        },
+        "Viktor": {
+            "image": {
+                "full": "Viktor.png",
+                "group": "champion",
+                "sprite": "champion4.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 192
+            },
+            "title": "機械文明の先触れ",
+            "id": 112,
+            "key": "Viktor",
+            "name": "ビクター"
+        },
+        "Rakan": {
+            "image": {
+                "full": "Rakan.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 288
+            },
+            "title": "魅惑の翼",
+            "id": 497,
+            "key": "Rakan",
+            "name": "ラカン"
+        },
+        "Kindred": {
+            "image": {
+                "full": "Kindred.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 288
+            },
+            "title": "永遠なる狩人",
+            "id": 203,
+            "key": "Kindred",
+            "name": "キンドレッド"
+        },
+        "Cassiopeia": {
+            "image": {
+                "full": "Cassiopeia.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 288
+            },
+            "title": "毒蛇の抱擁",
+            "id": 69,
+            "key": "Cassiopeia",
+            "name": "カシオペア"
+        },
+        "Maokai": {
+            "image": {
+                "full": "Maokai.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 384
+            },
+            "title": "歪みし樹人",
+            "id": 57,
+            "key": "Maokai",
+            "name": "マオカイ"
+        },
+        "Ornn": {
+            "image": {
+                "full": "Ornn.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 96
+            },
+            "title": "山の下の焔",
+            "id": 516,
+            "key": "Ornn",
+            "name": "オーン"
+        },
+        "Thresh": {
+            "image": {
+                "full": "Thresh.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 48
+            },
+            "title": "縛鎖の看守",
+            "id": 412,
+            "key": "Thresh",
+            "name": "スレッシュ"
+        },
+        "Kayle": {
+            "image": {
+                "full": "Kayle.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 96
+            },
+            "title": "裁きの翼",
+            "id": 10,
+            "key": "Kayle",
+            "name": "ケイル"
+        },
+        "Hecarim": {
+            "image": {
+                "full": "Hecarim.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 288
+            },
+            "title": "戦場の幻影",
+            "id": 120,
+            "key": "Hecarim",
+            "name": "ヘカリム"
+        },
+        "Khazix": {
+            "image": {
+                "full": "Khazix.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 240
+            },
+            "title": "ヴォイドの捕食者",
+            "id": 121,
+            "key": "Khazix",
+            "name": "カ＝ジックス"
+        },
+        "Olaf": {
+            "image": {
+                "full": "Olaf.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 0
+            },
+            "title": "狂戦士",
+            "id": 2,
+            "key": "Olaf",
+            "name": "オラフ"
+        },
+        "Ziggs": {
+            "image": {
+                "full": "Ziggs.png",
+                "group": "champion",
+                "sprite": "champion4.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 240
+            },
+            "title": "ヘクス爆薬のエキスパート",
+            "id": 115,
+            "key": "Ziggs",
+            "name": "ジグス"
+        },
+        "Syndra": {
+            "image": {
+                "full": "Syndra.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 240
+            },
+            "title": "暗黒の女王",
+            "id": 134,
+            "key": "Syndra",
+            "name": "シンドラ"
+        },
+        "DrMundo": {
+            "image": {
+                "full": "DrMundo.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 96
+            },
+            "title": "ゾウンの狂人",
+            "id": 36,
+            "key": "DrMundo",
+            "name": "ドクター・ムンド"
+        },
+        "Karma": {
+            "image": {
+                "full": "Karma.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 384
+            },
+            "title": "目覚めし者",
+            "id": 43,
+            "key": "Karma",
+            "name": "カルマ"
+        },
+        "Annie": {
+            "image": {
+                "full": "Annie.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 288
+            },
+            "title": "闇の申し子",
+            "id": 1,
+            "key": "Annie",
+            "name": "アニー"
+        },
+        "Akali": {
+            "image": {
+                "full": "Akali.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 96
+            },
+            "title": "影の拳",
+            "id": 84,
+            "key": "Akali",
+            "name": "アカリ"
+        },
+        "Volibear": {
+            "image": {
+                "full": "Volibear.png",
+                "group": "champion",
+                "sprite": "champion4.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 288
+            },
+            "title": "雷鳴の咆哮",
+            "id": 106,
+            "key": "Volibear",
+            "name": "ボリベア"
+        },
+        "Yasuo": {
+            "image": {
+                "full": "Yasuo.png",
+                "group": "champion",
+                "sprite": "champion4.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 48
+            },
+            "title": "赦されざる者",
+            "id": 157,
+            "key": "Yasuo",
+            "name": "ヤスオ"
+        },
+        "Kennen": {
+            "image": {
+                "full": "Kennen.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 192
+            },
+            "title": "雷雲の担い手",
+            "id": 85,
+            "key": "Kennen",
+            "name": "ケネン"
+        },
+        "Rengar": {
+            "image": {
+                "full": "Rengar.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 0
+            },
+            "title": "孤高のハンター",
+            "id": 107,
+            "key": "Rengar",
+            "name": "レンガー"
+        },
+        "Ryze": {
+            "image": {
+                "full": "Ryze.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 144
+            },
+            "title": "ルーンの魔導師",
+            "id": 13,
+            "key": "Ryze",
+            "name": "ライズ"
+        },
+        "Shen": {
+            "image": {
+                "full": "Shen.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 288
+            },
+            "title": "黄昏の瞳",
+            "id": 98,
+            "key": "Shen",
+            "name": "シェン"
+        },
+        "Zac": {
+            "image": {
+                "full": "Zac.png",
+                "group": "champion",
+                "sprite": "champion4.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 144
+            },
+            "title": "親愛なる秘密兵器",
+            "id": 154,
+            "key": "Zac",
+            "name": "ザック"
+        },
+        "Talon": {
+            "image": {
+                "full": "Talon.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 384
+            },
+            "title": "将軍の懐刀",
+            "id": 91,
+            "key": "Talon",
+            "name": "タロン"
+        },
+        "Swain": {
+            "image": {
+                "full": "Swain.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 192
+            },
+            "title": "戦術の匠",
+            "id": 50,
+            "key": "Swain",
+            "name": "スウェイン"
+        },
+        "Bard": {
+            "image": {
+                "full": "Bard.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 0
+            },
+            "title": "流離いの庇護者",
+            "id": 432,
+            "key": "Bard",
+            "name": "バード"
+        },
+        "Sion": {
+            "image": {
+                "full": "Sion.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 432
+            },
+            "title": "不死身の重戦車",
+            "id": 14,
+            "key": "Sion",
+            "name": "サイオン"
+        },
+        "Vayne": {
+            "image": {
+                "full": "Vayne.png",
+                "group": "champion",
+                "sprite": "champion4.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 0
+            },
+            "title": "ナイトハンター",
+            "id": 67,
+            "key": "Vayne",
+            "name": "ヴェイン"
+        },
+        "Nasus": {
+            "image": {
+                "full": "Nasus.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 240
+            },
+            "title": "砂漠の司書",
+            "id": 75,
+            "key": "Nasus",
+            "name": "ナサス"
+        },
+        "Kayn": {
+            "image": {
+                "full": "Kayn.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 144
+            },
+            "title": "無情の影",
+            "id": 141,
+            "key": "Kayn",
+            "name": "ケイン"
+        },
+        "TwistedFate": {
+            "image": {
+                "full": "TwistedFate.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 240
+            },
+            "title": "不敗のイカサマ師",
+            "id": 4,
+            "key": "TwistedFate",
+            "name": "ツイステッド・フェイト"
+        },
+        "Chogath": {
+            "image": {
+                "full": "Chogath.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 336
+            },
+            "title": "未知なる恐怖",
+            "id": 31,
+            "key": "Chogath",
+            "name": "チョ＝ガス"
+        },
+        "Udyr": {
+            "image": {
+                "full": "Udyr.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 336
+            },
+            "title": "精霊と歩む者",
+            "id": 77,
+            "key": "Udyr",
+            "name": "ウディア"
+        },
+        "Lucian": {
+            "image": {
+                "full": "Lucian.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 144
+            },
+            "title": "不浄殲滅者",
+            "id": 236,
+            "key": "Lucian",
+            "name": "ルシアン"
+        },
+        "Ivern": {
+            "image": {
+                "full": "Ivern.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 0
+            },
+            "title": "豊緑の神秘",
+            "id": 427,
+            "key": "Ivern",
+            "name": "アイバーン"
+        },
+        "Leona": {
+            "image": {
+                "full": "Leona.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 48
+            },
+            "title": "暁光の戦士",
+            "id": 89,
+            "key": "Leona",
+            "name": "レオナ"
+        },
+        "Caitlyn": {
+            "image": {
+                "full": "Caitlyn.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 192
+            },
+            "title": "ピルトーヴァーの保安官",
+            "id": 51,
+            "key": "Caitlyn",
+            "name": "ケイトリン"
+        },
+        "Sejuani": {
+            "image": {
+                "full": "Sejuani.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 192
+            },
+            "title": "極北の激憤",
+            "id": 113,
+            "key": "Sejuani",
+            "name": "セジュアニ"
+        },
+        "Nocturne": {
+            "image": {
+                "full": "Nocturne.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 384
+            },
+            "title": "終わりなき悪夢",
+            "id": 56,
+            "key": "Nocturne",
+            "name": "ノクターン"
+        },
+        "Zilean": {
+            "image": {
+                "full": "Zilean.png",
+                "group": "champion",
+                "sprite": "champion4.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 288
+            },
+            "title": "時の番人",
+            "id": 26,
+            "key": "Zilean",
+            "name": "ジリアン"
+        },
+        "Azir": {
+            "image": {
+                "full": "Azir.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 432
+            },
+            "title": "砂塵の皇帝",
+            "id": 268,
+            "key": "Azir",
+            "name": "アジール"
+        },
+        "Rumble": {
+            "image": {
+                "full": "Rumble.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 96
+            },
+            "title": "戦慄の機甲兵",
+            "id": 68,
+            "key": "Rumble",
+            "name": "ランブル"
+        },
+        "Morgana": {
+            "image": {
+                "full": "Morgana.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 144
+            },
+            "title": "不屈の堕天使",
+            "id": 25,
+            "key": "Morgana",
+            "name": "モルガナ"
+        },
+        "Taliyah": {
+            "image": {
+                "full": "Taliyah.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 336
+            },
+            "title": "ストーンウィーバー",
+            "id": 163,
+            "key": "Taliyah",
+            "name": "タリヤ"
+        },
+        "Teemo": {
+            "image": {
+                "full": "Teemo.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 0
+            },
+            "title": "俊足の斥候",
+            "id": 17,
+            "key": "Teemo",
+            "name": "ティーモ"
+        },
+        "Urgot": {
+            "image": {
+                "full": "Urgot.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 384
+            },
+            "title": "ドレッドノート",
+            "id": 6,
+            "key": "Urgot",
+            "name": "アーゴット"
+        },
+        "Amumu": {
+            "image": {
+                "full": "Amumu.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 192
+            },
+            "title": "めそめそミイラ",
+            "id": 32,
+            "key": "Amumu",
+            "name": "アムム"
+        },
+        "Galio": {
+            "image": {
+                "full": "Galio.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 0
+            },
+            "title": "伝説の巨像",
+            "id": 3,
+            "key": "Galio",
+            "name": "ガリオ"
+        },
+        "Heimerdinger": {
+            "image": {
+                "full": "Heimerdinger.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 336
+            },
+            "title": "誉れ高き発明王",
+            "id": 74,
+            "key": "Heimerdinger",
+            "name": "ハイマーディンガー"
+        },
+        "Anivia": {
+            "image": {
+                "full": "Anivia.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 240
+            },
+            "title": "氷の不死鳥",
+            "id": 34,
+            "key": "Anivia",
+            "name": "アニビア"
+        },
+        "Ashe": {
+            "image": {
+                "full": "Ashe.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 336
+            },
+            "title": "氷の射手",
+            "id": 22,
+            "key": "Ashe",
+            "name": "アッシュ"
+        },
+        "Velkoz": {
+            "image": {
+                "full": "Velkoz.png",
+                "group": "champion",
+                "sprite": "champion4.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 96
+            },
+            "title": "ヴォイドの瞳",
+            "id": 161,
+            "key": "Velkoz",
+            "name": "ヴェル＝コズ"
+        },
+        "Singed": {
+            "image": {
+                "full": "Singed.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 384
+            },
+            "title": "マッドケミスト",
+            "id": 27,
+            "key": "Singed",
+            "name": "シンジド"
+        },
+        "Skarner": {
+            "image": {
+                "full": "Skarner.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 48
+            },
+            "title": "水晶の尖兵",
+            "id": 72,
+            "key": "Skarner",
+            "name": "スカーナー"
+        },
+        "Varus": {
+            "image": {
+                "full": "Varus.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 432
+            },
+            "title": "報復の一矢",
+            "id": 110,
+            "key": "Varus",
+            "name": "ヴァルス"
+        },
+        "Twitch": {
+            "image": {
+                "full": "Twitch.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 288
+            },
+            "title": "黒死のドブネズミ",
+            "id": 29,
+            "key": "Twitch",
+            "name": "トゥイッチ"
+        },
+        "Garen": {
+            "image": {
+                "full": "Garen.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 96
+            },
+            "title": "デマーシアの勇士",
+            "id": 86,
+            "key": "Garen",
+            "name": "ガレン"
+        },
+        "Blitzcrank": {
+            "image": {
+                "full": "Blitzcrank.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 48
+            },
+            "title": "偉大なるスチームゴーレム",
+            "id": 53,
+            "key": "Blitzcrank",
+            "name": "ブリッツクランク"
+        },
+        "MasterYi": {
+            "image": {
+                "full": "MasterYi.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 432
+            },
+            "title": "ウージューの剣客",
+            "id": 11,
+            "key": "MasterYi",
+            "name": "マスター・イー"
+        },
+        "Elise": {
+            "image": {
+                "full": "Elise.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 192
+            },
+            "title": "蜘蛛の女帝",
+            "id": 60,
+            "key": "Elise",
+            "name": "エリス"
+        },
+        "Alistar": {
+            "image": {
+                "full": "Alistar.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 144
+            },
+            "title": "ミノタウロスの戦士",
+            "id": 12,
+            "key": "Alistar",
+            "name": "アリスター"
+        },
+        "Katarina": {
+            "image": {
+                "full": "Katarina.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 48
+            },
+            "title": "凶兆の刃",
+            "id": 55,
+            "key": "Katarina",
+            "name": "カタリナ"
+        },
+        "Ekko": {
+            "image": {
+                "full": "Ekko.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 144
+            },
+            "title": "砕けた時を渡る少年",
+            "id": 245,
+            "key": "Ekko",
+            "name": "エコー"
+        },
+        "Mordekaiser": {
+            "image": {
+                "full": "Mordekaiser.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 96
+            },
+            "title": "鋼の魂奪者",
+            "id": 82,
+            "key": "Mordekaiser",
+            "name": "モルデカイザー"
+        },
+        "Lulu": {
+            "image": {
+                "full": "Lulu.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 192
+            },
+            "title": "森の妖精使い",
+            "id": 117,
+            "key": "Lulu",
+            "name": "ルル"
+        },
+        "Camille": {
+            "image": {
+                "full": "Camille.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 240
+            },
+            "title": "スチールシャドウ",
+            "id": 164,
+            "key": "Camille",
+            "name": "カミール"
+        },
+        "Aatrox": {
+            "image": {
+                "full": "Aatrox.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 0
+            },
+            "title": "殺戮の古代戦士",
+            "id": 266,
+            "key": "Aatrox",
+            "name": "エイトロックス"
+        },
+        "Draven": {
+            "image": {
+                "full": "Draven.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 48
+            },
+            "title": "栄光ある処刑人",
+            "id": 119,
+            "key": "Draven",
+            "name": "ドレイヴン"
+        },
+        "TahmKench": {
+            "image": {
+                "full": "TahmKench.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 288
+            },
+            "title": "川の王様",
+            "id": 223,
+            "key": "TahmKench",
+            "name": "タム・ケンチ"
+        },
+        "Pantheon": {
+            "image": {
+                "full": "Pantheon.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 144
+            },
+            "title": "軍神",
+            "id": 80,
+            "key": "Pantheon",
+            "name": "パンテオン"
+        },
+        "XinZhao": {
+            "image": {
+                "full": "XinZhao.png",
+                "group": "champion",
+                "sprite": "champion4.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 0
+            },
+            "title": "デマーシアの家令長",
+            "id": 5,
+            "key": "XinZhao",
+            "name": "シン・ジャオ"
+        },
+        "AurelionSol": {
+            "image": {
+                "full": "AurelionSol.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 384
+            },
+            "title": "星を創りし者",
+            "id": 136,
+            "key": "AurelionSol",
+            "name": "オレリオン・ソル"
+        },
+        "LeeSin": {
+            "image": {
+                "full": "LeeSin.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 0
+            },
+            "title": "盲目の修行僧",
+            "id": 64,
+            "key": "LeeSin",
+            "name": "リー・シン"
+        },
+        "Taric": {
+            "image": {
+                "full": "Taric.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 432
+            },
+            "title": "ヴァロランの守護者",
+            "id": 44,
+            "key": "Taric",
+            "name": "タリック"
+        },
+        "Malzahar": {
+            "image": {
+                "full": "Malzahar.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 336
+            },
+            "title": "ヴォイドの予言者",
+            "id": 90,
+            "key": "Malzahar",
+            "name": "マルザハール"
+        },
+        "Lissandra": {
+            "image": {
+                "full": "Lissandra.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 96
+            },
+            "title": "氷の魔女",
+            "id": 127,
+            "key": "Lissandra",
+            "name": "リサンドラ"
+        },
+        "Diana": {
+            "image": {
+                "full": "Diana.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 0
+            },
+            "title": "嘲りの月",
+            "id": 131,
+            "key": "Diana",
+            "name": "ダイアナ"
+        },
+        "Tristana": {
+            "image": {
+                "full": "Tristana.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 96
+            },
+            "title": "ヨードルの主砲",
+            "id": 18,
+            "key": "Tristana",
+            "name": "トリスターナ"
+        },
+        "RekSai": {
+            "image": {
+                "full": "RekSai.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 384
+            },
+            "title": "地底の恐怖",
+            "id": 421,
+            "key": "RekSai",
+            "name": "レク＝サイ"
+        },
+        "Vladimir": {
+            "image": {
+                "full": "Vladimir.png",
+                "group": "champion",
+                "sprite": "champion4.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 240
+            },
+            "title": "真紅の死神",
+            "id": 8,
+            "key": "Vladimir",
+            "name": "ブラッドミア"
+        },
+        "JarvanIV": {
+            "image": {
+                "full": "JarvanIV.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 96
+            },
+            "title": "デマーシアの儀範",
+            "id": 59,
+            "key": "JarvanIV",
+            "name": "ジャーヴァンⅣ"
+        },
+        "Nami": {
+            "image": {
+                "full": "Nami.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 192
+            },
+            "title": "潮呼びの巫女",
+            "id": 267,
+            "key": "Nami",
+            "name": "ナミ"
+        },
+        "Jhin": {
+            "image": {
+                "full": "Jhin.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 240
+            },
+            "title": "孤高の芸術家",
+            "id": 202,
+            "key": "Jhin",
+            "name": "ジン"
+        },
+        "Soraka": {
+            "image": {
+                "full": "Soraka.png",
+                "group": "champion",
+                "sprite": "champion3.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 144
+            },
+            "title": "星の子",
+            "id": 16,
+            "key": "Soraka",
+            "name": "ソラカ"
+        },
+        "Veigar": {
+            "image": {
+                "full": "Veigar.png",
+                "group": "champion",
+                "sprite": "champion4.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 48
+            },
+            "title": "小さき大魔王",
+            "id": 45,
+            "key": "Veigar",
+            "name": "ベイガー"
+        },
+        "Janna": {
+            "image": {
+                "full": "Janna.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 48
+            },
+            "title": "嵐の怒り",
+            "id": 40,
+            "key": "Janna",
+            "name": "ジャンナ"
+        },
+        "Nautilus": {
+            "image": {
+                "full": "Nautilus.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 288
+            },
+            "title": "深海の巨人",
+            "id": 111,
+            "key": "Nautilus",
+            "name": "ノーチラス"
+        },
+        "Evelynn": {
+            "image": {
+                "full": "Evelynn.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 240
+            },
+            "title": "苦悶の抱擁",
+            "id": 28,
+            "key": "Evelynn",
+            "name": "イブリン"
+        },
+        "Gragas": {
+            "image": {
+                "full": "Gragas.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 192
+            },
+            "title": "騒乱の飲んだくれ",
+            "id": 79,
+            "key": "Gragas",
+            "name": "グラガス"
+        },
+        "Zed": {
+            "image": {
+                "full": "Zed.png",
+                "group": "champion",
+                "sprite": "champion4.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 192
+            },
+            "title": "影の頭領",
+            "id": 238,
+            "key": "Zed",
+            "name": "ゼド"
+        },
+        "Vi": {
+            "image": {
+                "full": "Vi.png",
+                "group": "champion",
+                "sprite": "champion4.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 144
+            },
+            "title": "ピルトーヴァーの用心棒",
+            "id": 254,
+            "key": "Vi",
+            "name": "ヴァイ"
+        },
+        "KogMaw": {
+            "image": {
+                "full": "KogMaw.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 384
+            },
+            "title": "深淵のアギト",
+            "id": 96,
+            "key": "KogMaw",
+            "name": "コグ＝マウ"
+        },
+        "Ahri": {
+            "image": {
+                "full": "Ahri.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 48
+            },
+            "title": "九尾の狐",
+            "id": 103,
+            "key": "Ahri",
+            "name": "アーリ"
+        },
+        "Quinn": {
+            "image": {
+                "full": "Quinn.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 240
+            },
+            "title": "デマーシアの両翼",
+            "id": 133,
+            "key": "Quinn",
+            "name": "クイン"
+        },
+        "Leblanc": {
+            "image": {
+                "full": "Leblanc.png",
+                "group": "champion",
+                "sprite": "champion1.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 432
+            },
+            "title": "幻惑の奇術師",
+            "id": 7,
+            "key": "Leblanc",
+            "name": "ルブラン"
+        },
+        "Ezreal": {
+            "image": {
+                "full": "Ezreal.png",
+                "group": "champion",
+                "sprite": "champion0.png",
+                "h": 48,
+                "w": 48,
+                "y": 96,
+                "x": 288
+            },
+            "title": "光の冒険心",
+            "id": 81,
+            "key": "Ezreal",
+            "name": "エズリアル"
+        }
+    }
+}
